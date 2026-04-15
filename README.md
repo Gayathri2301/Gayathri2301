@@ -4,7 +4,7 @@ Recent Information Science graduate skilled in Java full-stack development (Spri
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gayathri-k-s-0b53a9225/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gayathri1ks23@gmail.com) 
-https://www.linkedin.com/in/gayathri1ks23/
+https://www.linkedin.com/in/gayathri1ks23/ 
 https://www.skills.google/profile/badges
 https://www.hackerrank.com/profile/gayathriks001
 
